@@ -1,7 +1,7 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Joshua Santillan 
 
 ## Part 1:
 
