@@ -59,10 +59,10 @@ getMeme.addEventListener('submit', (event) => {
     ctx.fillStyle = "white";
     ctx.strokeStyle = "black";
     ctx.textAllign = "center";
-    ctx.fillText(bottomText.value, 100, 385);
-    ctx.fillText(topText.value, 100, 35);
-    ctx.strokeText(bottomText.value, 100, 385);
-    ctx.strokeText(topText.value, 100, 35);
+    ctx.fillText(bottomText.value, 120, 385);
+    ctx.fillText(topText.value, 120, 35);
+    ctx.strokeText(bottomText.value, 120, 385);
+    ctx.strokeText(topText.value, 120, 35);
 
     // now enable them
     clrButton.disabled = false;
