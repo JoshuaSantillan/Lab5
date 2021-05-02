@@ -5,7 +5,7 @@
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+Part 1 Published @: https://joshuasantillan.github.io/Lab5/
 
 ## Part 2:
 
