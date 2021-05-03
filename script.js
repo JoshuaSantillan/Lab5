@@ -60,6 +60,7 @@ getMeme.addEventListener('submit', (event) => {
     ctx.strokeStyle = "black";
     ctx.textAllign = "center";
     ctx.fillText(bottomText.value, 120, 385);
+    ctx.textAllign = "center";
     ctx.fillText(topText.value, 120, 35);
     ctx.strokeText(bottomText.value, 120, 385);
     ctx.strokeText(topText.value, 120, 35);
